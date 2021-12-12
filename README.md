@@ -1,3 +1,3 @@
 # Learning Rust
 
-# Practicing loop - convert fahrenheit to celsius
+## Practicing loop - convert fahrenheit to celsius
